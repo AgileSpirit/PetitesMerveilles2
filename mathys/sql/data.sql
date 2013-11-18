@@ -1,1 +1,0 @@
-INSERT INTO  `agilespimod1`.`pm_mathys` ( `title` , `small` , `medium` ,`big` ) VALUES ( 'test',  'small/test.png',  'medium/test.jpg',  'big/test.jpg' );
