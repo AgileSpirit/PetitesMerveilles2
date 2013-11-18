@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"agile",
+				"agilespirit_assets"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"add",
+				"add_theme_support"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"agie",
+				"agilespirit_scripts"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"agilespirt",
+				"agilespirit"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/404.html",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/CHANGELOG.md",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/apple-touch-icon-precomposed.png",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/CONTRIBUTING.md",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/crossdomain.xml",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/favicon.ico",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/humans.txt",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/index.html",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/LICENSE.md",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/README.md",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/robots.txt",
+		"/Users/OCTO-JBU/Pictures/tmp/mathys/images.json",
+		"/Users/OCTO-JBU/Downloads/responsive-nav.js-master/responsive-nav.css",
+		"/Users/OCTO-JBU/Downloads/topcoat-0.7.5/NOTICE",
+		"/Users/OCTO-JBU/Downloads/topcoat-0.7.5/demo/index.html",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/jenkins-pre-build.bat",
+		"/Users/OCTO-JBU/Downloads/topcoat-0.7.5/README.md",
+		"/Users/OCTO-JBU/Works/SwissLife/WebService - LWM29_CommunicationClient-3e4b546d661a/CommunicationClientService/src/main/java/fr/swisslife/communicationclient/mm/DepotDemande.java",
+		"/Users/OCTO-JBU/Works/SwissLife/WebService - LWM29_CommunicationClient-3e4b546d661a/pom.xml",
+		"/Users/OCTO-JBU/Works/AgileSpirit/JavaBackbone/target/JavaBackbone/META-INF/MANIFEST.MF",
+		"/Users/OCTO-JBU/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/OCTO-JBU/Downloads/topcoat-0.7.5/demo/js/main.js",
+		"/Users/OCTO-JBU/Downloads/LWM29_CommunicationClient-3e4b546d661a/README.md",
+		"/Users/OCTO-JBU/Downloads/LWM29_CommunicationClient-3e4b546d661a/CommunicationClientProprietesExternes/LWM29_log4j.properties",
+		"/Users/OCTO-JBU/Downloads/LWM29_CommunicationClient-3e4b546d661a/CommunicationClientProprietesExternes/LWM29_config.properties",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petites-merveilles/index.html",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/manon/resources/themes/uber-naked/index.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/mathys.html",
+		"/private/var/folders/kb/pgw9p3rn1fj_5jpd4_5lrbm80000gn/T/fz3temp-1/index.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/mathys/resources/themes/uber-naked/index.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/index.html",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/mathys/galleryConfig.ini",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/mathys/resources/templates/defaultGallery.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/mathys/resources/UberGallery.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/css/style.css",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/manon.html",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/lightbox/index.html",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/uber/index.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/uber/resources/UberGallery.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/css/reset.css",
+		"/Users/OCTO-JBU/Works/AgileSpirit/Impulse/src/main/resources/archetype-resources/pom.xml",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/.htaccess",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/.htpasswds",
+		"/Users/OCTO-JBU/Works/AgileSpirit/petite-merveille/jquery-2.0.3.min.js",
+		"/Users/OCTO-JBU/Works/AgileSpirit/JavaBackbone/README.md",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/orbis-batch/src/config/ERROR.pl",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/orbis-batch/src/config/ORBIS_ENV.bat",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/orbis-batch/src/bin/ORB_SAFIR_FLOW_FIN.bat",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/orbis-batch/src/bin/ORBIS_JAVA_START.bat",
+		"/Users/OCTO-JBU/Downloads/foundation_icons_all/foundation_icons_general/demo.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/style.css",
+		"/Users/OCTO-JBU/Downloads/foundation_icons_all/foundation_icons_social/demo.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/searchform.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/comments.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/general-template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen/comments.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/languages/agilespirit.pot",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/languages/twentytwelve.pot",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/style.css",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/template.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/foundation/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/foundation/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen/style.css",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/css/presentation.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/fonts/proximanovacond-regular-webfont-webfont.woff",
+		"/Users/OCTO-JBU/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.clearing.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.forms.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.joyride.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.orbit.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.tooltips.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/style-orig.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation/foundation.topbar.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/js/foundation.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentytwelve/footer.php",
+		"/Users/OCTO-JBU/Downloads/foundation-4.3.1/index.html",
+		"/Users/OCTO-JBU/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Users/OCTO-JBU/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/pom.xml",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/css/style.css",
+		"/Users/OCTO-JBU/Works/Allianz/platform/cache/xsd/scop-entities.xsd",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/index.html",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/scop.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/tool.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/usesvn.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/aaam.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/alis2.cmd",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/desktop/finalization/approval/DesktopApprovalPage.html",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/mobile/finalization/approval/ApprovalPage.html",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/QuestionnaireApplication.properties",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/analysis/rules/RuleFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/questionnaire/QuestionnaireFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/template/TemplateFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/questionnaire-sante.sublime-project",
+		"/Users/OCTO-JBU/Works/Workspace/CurriculumVitae/js/resume.js",
+		"/Users/OCTO-JBU/Works/Workspace/CurriculumVitae/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"mathys.html",
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/functions.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/content.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/comments.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/functions.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/style.css",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/*.css",
+			"style.css",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit/*.php",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"DSC_([0-9]{4}).jpg",
+			"DSC_(([0-9])).jpg",
+			"DSC_([0-9]+).jpg",
+			"DSC_([0-9](4)).jpg",
+			"UberGallery",
+			"Manon",
+			"manon",
+			"manon1",
+			"5",
+			" ",
+			"datatypeFactory",
+			"nav",
+			"post_na",
+			"post_n",
+			"comment-re",
+			"<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri(); ?>/style.css\" media=\"screen\" type=\"text/css\" />\n",
+			"wp_enqueue_styles",
+			"home_url",
+			"get_the_category_list",
+			"tag",
+			"body",
+			"widget",
+			"header",
+			"Thirteen",
+			"Twenty",
+			"twentythirteen",
+			"Twenty Thirteen",
+			"Twenty_Thirteen",
+			"Twenty Thirteen",
+			"twentythirteen",
+			"@font-fa",
+			"/www/wp-content/themes/agilespirit/",
+			"'Ope",
+			"twentythirteen_scripts_styles",
+			"twentythirteen_fonts_url",
+			"font",
+			"@font",
+			";-)",
+			"icon_wink",
+			"fonts\\/\\/",
+			"\\.\\.\\/fonts",
+			"\\{font",
+			"\\}\\@font",
+			"}\\@font",
+			"}@font",
+			";",
+			"masthea",
+			"founda",
+			"class",
+			" class=\\\".*\\\"",
+			"twentytwelve",
+			"twentytwelve_author_bio_avatar_size",
+			"twentytw",
+			" class=\\\".*\\\"",
+			" class=\\\"\\\"",
+			"'twentytwelve'",
+			"orange",
+			"h3",
+			"électo",
+			"electo",
+			"QUESTIONNAIRE_SPECIFIQUE",
+			"Questionnaire spéci",
+			"\\'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  \\{ id: $1, title: \"\", small: \"/small/DSC_$1.png\", medium: \"/medium/DSC_$1.jpg\", big: \"/big/DSC_$1.jpg\" \\},",
+			"  \\{ id: $1, title: \"\", small: \"/small/DSC_$1.png\", medium: \"/medium/DSC_$1.jpg\", big: \"/big/DSC_$1.jpg\" \\},\\n",
+			"  \\{ id: $1, title: \"\", small: \"/small/DSC_$1.png\" \\},\\n",
+			"  \\{ id: $1, title: \"\", small: \"/small/DSC_$1\\.png\" \\},\\n",
+			"\\{$1\\}",
+			"\\{{1}\\}",
+			"Mathys",
+			"mathys",
+			":",
+			"Spirit",
+			"Agile",
+			"agilespirit",
+			"Agile Spirit",
+			"Agile_Spirit",
+			"Agile Spirit",
+			"agilespirit",
+			"",
+			"fonts\\/",
+			"\\/www\\/wp-content\\/themes\\/agilespirit\\/fonts\\/",
+			"\\{\\nfont",
+			"\\}\\n\\@font",
+			"}\\n\\@font",
+			"}n@font",
+			";\\n",
+			"",
+			"'agilespirit'",
+			"’"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "mathys.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
