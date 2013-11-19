@@ -129,14 +129,12 @@ textarea {
     margin: 5px;
 }
 
-.thumbnail:hover {
-    margin: 0;
-    /*padding: 2px;*/
-    border: 5px solid #8BD2F0; 
+.ui-tooltip {
+  max-width: none;
 }
-
-
-
+body .ui-tooltip {
+  border-width: 0;
+}
 
 
 
@@ -265,7 +263,6 @@ textarea {
 }
 
 @media print,
-       (-o-min-device-pixel-ratio: 5/4),
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 120dpi) {
     /* Style adjustments for high resolution devices */
