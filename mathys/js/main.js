@@ -12,7 +12,7 @@ $(document).ready(function () {
                 var element = $(this);
                 var image = element.data("image");
                 console.log("image = " + image);
-                var markup = '<img class="image" height="300" alt="' + image + '" src="' + image + '">';
+                var markup = '<img class="image" onerror="this.src = \"img/default.png\"" height="300" alt="' + image + '" src="' + image + '">';
                 return markup;
             },
             track: true
