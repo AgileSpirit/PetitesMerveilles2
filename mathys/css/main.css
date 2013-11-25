@@ -97,12 +97,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/* ------ */
+/* HEADER */
+/* ------ */
+
 #header {
-    height: 60px;
+  text-align: center;
 }
 
 #title {
-    text-align: center;
 }
 
 #title h1 {
@@ -110,24 +113,49 @@ textarea {
     font-weight: 400;
 }
 
-#footer {
-    height: 30px;
+#actions {
+  margin: 10px 0;
+  color: #999;
 }
+
+.action {
+  text-decoration: none;
+  color: #999;
+}
+.action:hover {
+  color: #8BD2F0;
+}
+
+/* ---- */
+/* BODY */
+/* ---- */
 
 #content {
 }
 
 #images {
-    margin: 0;
-    padding: 0;
-    text-align: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 .thumbnail {
-    display: inline-block;
-    list-style-type: none;
-    margin: 5px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 5px;
 }
+
+/* ------ */
+/* FOOTER */
+/* ------ */
+
+#footer {
+    height: 30px;
+}
+
+/* ----- */
+/* OTHER */
+/* ----- */
 
 .ui-tooltip {
   max-width: none;
