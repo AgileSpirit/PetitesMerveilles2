@@ -1,5 +1,4 @@
-[
-  { "id" : 9999, "title" : "", "small" : "toto", "medium" : "toto", "big" : "toto" },  
+[ 
   { "id" : 7766, "title" : "", "small" : "img/small/DSC_7766.png", "medium" : "img/medium/DSC_7766.jpg", "big" : "img/big/DSC_7766.jpg" },
   { "id" : 7750, "title" : "", "small" : "img/small/DSC_7750.png", "medium" : "img/medium/DSC_7750.jpg", "big" : "img/big/DSC_7750.jpg" },
   { "id" : 7748, "title" : "", "small" : "img/small/DSC_7748.png", "medium" : "img/medium/DSC_7748.jpg", "big" : "img/big/DSC_7748.jpg" },
